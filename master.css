@@ -1,3 +1,11 @@
 * {
-  font-family: Open Sans;
+  font-family: Open-Sans;
+  color: white;
   }
+body {
+  background-color: black;
+}
+#main__container {
+  width: 80%;
+  margin: 0 auto;
+}
